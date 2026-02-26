@@ -110,4 +110,4 @@ The initial codebase contained several critical bugs spanning agent configuratio
   "query": "Analyze this financial document for investment insights",
   "analysis": "[Detailed string output containing the AI agents' combined analysis, market predictions, and risk assessments...]",
   "file_processed": "sample_report.pdf"
-}
+} 
